@@ -1,11 +1,9 @@
 p {
   color: red;
 }
-
 a {
   color: blue;
 }
-
 h1 {
   color: #ffc;
   background-color: #009;
@@ -20,4 +18,7 @@ table {
 address {
   text-decoration: underline;
   text-transform: lowercase;
+}
+h3 {
+  padding: 250px;
 }
