@@ -1,5 +1,5 @@
 p {
-  color: red;
+  color: #29125e;
 }
 a {
   color: blue;
@@ -7,10 +7,14 @@ a {
 h1 {
   color: #ffc;
   background-color: #009;
+  border-style: dashed;
+  border-color: #20cde8;
+  border-width: 15px;
+  text-align: center;
 }
 body {
   font-size: 3em;
-  background-color: #40fe6d;
+  background-color: #e3ec97;
 }
 table {
   font-weight: bolder;
